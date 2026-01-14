@@ -1,86 +1,71 @@
-<h1 align="center">Hi 👋, I'm Hashintha Nishsanka</h1>
-<h3 align="center">Full Stack Developer • AI & Web Tools • Open Source Enthusiast</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Hashintha%20Nishsanka&descAlignY=51&descAlign=62" />
+</div>
 
-<p align="center">
+<div align="center">
+  <h3>🚀 Full Stack Developer | AI Engineer | Web3 Enthusiast</h3>
+  <p><i>"I don't just write code; I engineer experiences that define brands."</i></p>
+
   <a href="https://hashintha.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-hashintha.dev-674188?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/Codehash001" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Codehash001-000000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Portfolio-hashintha.dev-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/hashintha-nishsanka-81a19a348" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hashintha_Nishsanka-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
+  <a href="mailto:contact@hashintha.dev">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
-I build **practical tools, full-stack apps, and AI-powered utilities**. I enjoy bridging backend systems with clean frontends and exploring how modern APIs can make developer workflows smoother.
+I am a **Software Engineer** based in Sri Lanka with a passion for building scalable web applications and intelligent AI agents. With **70+ projects completed**, I specialize in bridging the gap between complex backend logic and fluid frontend experiences.
 
-I’m passionate about:
-- 🚀 **AI & automation**
-- 📁 **Tools that save time**
-- ⚡ **API-first development**
-- 🤝 **Open source collaboration**
-
----
-
-## 💡 What I’m Working On
-
-Here are some of the key projects I’m actively developing and maintaining: :contentReference[oaicite:1]{index=1}
-
-### 🔥 Featured Projects
-
-#### 🧠 **gpt-pdf-translator**
-> A FastAPI tool that **translates PDF documents** into different languages using OpenAI, while **preserving the original layout and formatting** — perfect for multilingual workflows. :contentReference[oaicite:2]{index=2}
-
-#### 📄 **lang-translator**
-> A Python-based language translator with easy CLI/web integration — useful for quick translation needs in apps. :contentReference[oaicite:3]{index=3}
-
-#### 🗣 **voice-agent-demo**
-> Demonstration of voice-enabled AI agent features — blending speech input with backend processing. :contentReference[oaicite:4]{index=4}
-
-#### 🎛 **automation-admin**
-> A TypeScript tool focused on enhancing admin automation workflows for internal tools. :contentReference[oaicite:5]{index=5}
+- 🔭 I’m currently working on **SaaS platforms & Multi-agent AI solutions**.
+- 🌱 I’m currently exploring **Solidity & Advanced NLP**.
+- 🎓 **Education:** Bachelor of ICT, University of Sri Jayawardenepura.
+- 💬 Ask me about **Next.js, AI Agents, or Web3 Dapps**.
 
 ---
 
-## 🧰 Tech Stack
+### 🛠️ Tech Stack
 
-### 🔹 Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript)
-![Python](https://img.shields.io/badge/Python-111111?style=flat&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/React-111111?style=flat&logo=react)
+<div align="center">
 
-### ☁️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-111111?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat&logo=vercel)
+| Frontend | Backend & AI | Blockchain & Tools |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,framer" /> | <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,postgres" /> | <img src="https://skillicons.dev/icons?i=solidity,docker,git,vercel,linux" /> |
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 🏆 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codehash001&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codehash001&theme=tokyonight" />
-</p>
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **🏠 bodima.com-app** | A comprehensive platform for finding boarding places and accommodation. | `Web App` `Marketplace` `Real Estate` |
+| **📄 gpt-pdf-translator** | Translates PDFs while preserving layout using OpenAI. | `FastAPI` `OpenAI` `Python` |
+| **🔗 Beni Minting Dapp** | Full-stack decentralized application and minting engine. | `Solidity` `Web3` `Smart Contracts` |
+| **📂 Documaty** | AI agent that transforms complex documentation into clear guidance. | `NLP` `Full Stack` `AI` |
 
 ---
 
-## 📫 Let’s Connect
+### 📈 GitHub Stats
 
-- 🌐 Portfolio: **https://hashintha.dev**
-- 💻 GitHub: **@Codehash001**
-- 💼 LinkedIn: **Hashintha Nishsanka**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Codehash001&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codehash001&layout=compact&theme=midnight-purple&hide_border=true" height="180" alt="languages graph" />
+</div>
 
-<p align="center">
-  <i>“Creating tools that automate tasks and empower developers.”</i>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codehash001&theme=midnight-purple&hide_border=true" alt="streak graph" />
+</div>
+
+---
+
+<div align="center">
+  <p>Designed with ❤️ by Hashintha Nishsanka</p>
+</div>
