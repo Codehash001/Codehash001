@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Hashintha
 
-<!--
-**Codehash001/Codehash001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | 🚀 AI & SaaS Builder  
+📍 Sri Lanka  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 🔭 Working on **AI-powered SaaS products**
+- 🧠 Learning **Web3, AI agents & scalable systems**
+- 🛠 Building with **Next.js, Node.js, Supabase**
+- 💼 Freelancer & Startup Builder
+
+---
+
+## 🧰 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js)
+![Supabase](https://img.shields.io/badge/Supabase-black?style=flat&logo=supabase)
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/your-username
+- LinkedIn: https://linkedin.com/in/your-profile
+
+---
+⭐️ _“Building products, not just projects.”_
