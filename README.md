@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Hashintha%20Nishsanka&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5a189a,000000&height=300&section=header&text=Hello%20World&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20am%20Hashintha%20Nishsanka&descAlignY=51&descAlign=62&descColor=ffffff" />
 </div>
 
 <div align="center">
@@ -56,7 +56,7 @@ I am a **Software Engineer** based in Sri Lanka with a passion for building scal
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codehash001&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Codehash001&show_icons=true&theme=midnight-purple&hide_border=true" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codehash001&layout=compact&theme=midnight-purple&hide_border=true" height="180" alt="languages graph" />
 </div>
 
