@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/eJp33wY6lQoWj5A88B/giphy.gif" width="100%" height="250" style="object-fit: cover;" alt="Matrix Animation" />
-</div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
